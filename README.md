@@ -2,17 +2,17 @@
 
 ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' ''' '''
 
-#	@(#)Program:	    K-Means Clustering
-#	@(#)Purpose:        To cluster given dataset into k clusters, visualize the clusters hence formed.
-#	@(#)Author(s):      V.Rajagopal, Nikhil Pularru, Prakhar Jain
+@(#)Program:	    K-Means Clustering
+@(#)Purpose:        To cluster given dataset into k clusters, visualize the clusters hence formed.
+@(#)Author(s):      V.Rajagopal, Nikhil Pularru, Prakhar Jain
 
 Run the program as follows:
 
-python  Clustering.py  [input_txt_filename]  [value_of_k]  (On Windows)
+python  Clustering.py  [input_txt_filename] \[value_of_k]  (On Windows)
 
 OR
 
-python3  Clustering.py  [input_txt_filename]  [value_of_k]  (On Linux)
+python3  Clustering.py  [input_txt_filename] \[value_of_k]  (On Linux)
 
 INPUT FORMAT
 
